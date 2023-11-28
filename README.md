@@ -133,10 +133,10 @@
 
       - Team Stack
         
-          - 제품 인식 : RFID기술을 활용한 제품간 고유 식별 ID 생성
-          - 제품 – DB 통신 : MQTT socket 통신
-          - AIoT 하드웨어 제작
-          - AIoT 소프트웨어 모델링 (Arduino / RasberryPi)
+            (1) 제품 인식 : RFID기술을 활용한 제품간 고유 식별 ID 생성
+            (2) 제품 – DB 통신 : MQTT socket 통신
+            (3) AIoT 하드웨어 제작
+            (4) AIoT 소프트웨어 모델링 (Arduino / RasberryPi)
 
 Github link : [핵심프로젝트](https://github.com/kwanyeong/e-convient-Life-Serive/tree/main)
 
