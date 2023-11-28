@@ -89,7 +89,7 @@
         1) 연구개요 : 공장에너지관리시스템(FEMS : Factory Energy Management System)에서 이상탐지, 운영최적화, 공정모니터링을 수행하기 위하여 에너지 수요분석 및 예측모델 연구를 진행
         2) 연구방법 및 성과 : 공장에너지 분석의 정확도를 높이고 신호처리를 통해 변수간 통계적 추출, 스펙트럼 분석을 통해 시계열 데이터 정상성 주기(stational cycle)를 찾아내고 시계열 교차검증(Time Series Cross Validation)을 주기별로 학습을 수행하고, 잡음 신호처리(Denoising)을 통해 시계열 분석에 적용하여 각 모델마다 성능을 평가. 구현한 모델 중 최적의 전력 예측을 위한 결정트리(Decision Tree)기반의 부스팅(XGBoost) 학습모델을 적용한 적층형 하이브리드(Stacked Hybrid) 모델을 통해 공장에너지 수요예측 및 절감기법을 제안
       
-논문링크 - [dbpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227187) | [논문열람](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/2023w/abs/0728-MYAUT.pdf)
+논문링크 : [dbpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227187) | [논문열람](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/2023w/abs/0728-MYAUT.pdf)
 
 
 - 핵심프로젝트 우수상(2023. 9) -주최 : 인공지능사관학교
