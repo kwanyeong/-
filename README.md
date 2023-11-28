@@ -106,15 +106,11 @@
     - My Stack
 
         (1) Web 개발 (HTML/CSS, JavaScript, AJAX, Django, Flask)
-          - Main 페이지 : 네비게이션 바, 스크롤바, 캐로셀(Carousel), 이벤트정보 기능 구현 등
-      
-          - User/Admin 페이지 : 로그인, 회원가입, 회원가입 완료, Mypage, 회원정보 수정
-      
-          - Product 페이지 : 제품정보 등록/수정, 제품정보 조회
-      
-          - Rental 페이지 : 대여정보 조회
-      
-          - Point 페이지 : 고객 포인트정보 조회
+          ○ Main 페이지 : 네비게이션 바, 스크롤바, 캐로셀(Carousel), 이벤트정보 기능 구현 등
+          ○ User/Admin 페이지 : 로그인, 회원가입, 회원가입 완료, Mypage, 회원정보 수정
+          ○ Product 페이지 : 제품정보 등록/수정, 제품정보 조회
+          ○ Rental 페이지 : 대여정보 조회
+          ○ Point 페이지 : 고객 포인트정보 조회
         
         (2) SMTP(Simple Mailing Transfer Protocol) 메일링 서비스 개발
           - Contact 페이지 : 회사로 직접 연락할 수 있는 메일링 서비스 기능 구현
