@@ -81,10 +81,10 @@
   - 사용기술 : 잡음신호 처리(Denosing) - FFT 변환, 스펙트럼 분석,  시계열교차검증, 시계열 모델 구축(Moving Average, LSTM, Stacked Hybrid)
   - 성과
     - ▶ 학회논문 게재
-      - (1)기관명 : 한국전자통신연구원[ETRI] / 지도교수 : 김선혁 박사 / LAB 명칭 : 지능화제조융합본부 - ICT환경연구실
-      - (2)주최기관 – 2023 동계 한국통신학회
-      - (3)논문명 : 연속공정에서의 에너지 수요분석 및 예측모델 (주저자)
-      - (4)연구성과 : 예측정확도 99%의 시계열 모델 개발 및 Shewart 관리도를 적용한 이상탐지 모델 개발
+      (1)기관명 : 한국전자통신연구원[ETRI] / 지도교수 : 김선혁 박사 / LAB 명칭 : 지능화제조융합본부 - ICT환경연구실
+      (2)주최기관 – 2023 동계 한국통신학회
+      (3)논문명 : 연속공정에서의 에너지 수요분석 및 예측모델 (주저자)
+      (4)연구성과 : 예측정확도 99%의 시계열 모델 개발 및 Shewart 관리도를 적용한 이상탐지 모델 개발
       
   - 역할
       - My Stack
@@ -104,29 +104,32 @@
  
   - 역할
     - My Stack
-        - (1) Web 개발 (HTML/CSS, JavaScript, AJAX, Django, Flask)
+        (1) Web 개발 (HTML/CSS, JavaScript, AJAX, Django, Flask)
           - Main 페이지 : 네비게이션 바, 스크롤바, 캐로셀(Carousel), 이벤트정보 기능 구현 등
           - User/Admin 페이지 : 로그인, 회원가입, 회원가입 완료, Mypage, 회원정보 수정
           - Product 페이지 : 제품정보 등록/수정, 제품정보 조회
           - Rental 페이지 : 대여정보 조회
           - Point 페이지 : 고객 포인트정보 조회
         
-        - (2) SMTP(Simple Mailing Transfer Protocol) 메일링 서비스 개발
+        (2) SMTP(Simple Mailing Transfer Protocol) 메일링 서비스 개발
           - Contact 페이지 : 회사로 직접 연락할 수 있는 메일링 서비스 기능 구현 
           - SMTP/SSL(Secure Sockets Layer) 메일통신간 정보보안 무결성 통신 제공
         
-        - (3) DB – Server 통신
+        (3) DB – Server 통신
           - MySQL : 웹서버 – DB정보간 실시간 통신 (MQTT Socket 통신)
         
-        - (4) AI 모델링
+        (4) AI 모델링
           - Roboflow 웹사이트에서 Crack and Dent 데이터 수집
           - OpenCV 기반 이미지 딥러닝 모델구축 및 학습
+ 
+        (5) 프로젝트 PM 총괄
+          - 프로젝트 기획(WireFrame 화면설계), DB설계, Web 개발 및 AIoT 프로젝트 관리
 
       - Team Stack
-        - (1) 제품 인식 : RFID기술을 활용한 제품간 고유 식별 ID 생성
-        - (2) 제품 – DB 통신 : MQTT socket 통신
-        - (3) AIoT 하드웨어 제작
-        - (4) AIoT 소프트웨어 모델링 (Arduino / RasberryPi)
+        (1) 제품 인식 : RFID기술을 활용한 제품간 고유 식별 ID 생성
+        (2) 제품 – DB 통신 : MQTT socket 통신
+        (3) AIoT 하드웨어 제작
+        (4) AIoT 소프트웨어 모델링 (Arduino / RasberryPi)
 
 Github link : [핵심프로젝트](https://github.com/kwanyeong/e-convient-Life-Serive/tree/main)
 
