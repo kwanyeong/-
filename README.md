@@ -81,15 +81,15 @@
   - 사용기술 : 잡음신호 처리(Denosing) - FFT 변환, 스펙트럼 분석,  시계열교차검증, 시계열 모델 구축(Moving Average, LSTM, Stacked Hybrid)
   - 성과
     - ▶ 학회논문 게재
-      - 1)기관명 : 한국전자통신연구원[ETRI] / 지도교수 : 김선혁 박사 / LAB 명칭 : 지능화제조융합본부 - ICT환경연구실
-      - 2)주최기관 – 2023 동계 한국통신학회
-      - 3)논문명 : 연속공정에서의 에너지 수요분석 및 예측모델 (주저자)
-      - 4)연구성과 : 예측정확도 99%의 시계열 모델 개발 및 Shewart 관리도를 적용한 이상탐지 모델 개발
+      - (1)기관명 : 한국전자통신연구원[ETRI] / 지도교수 : 김선혁 박사 / LAB 명칭 : 지능화제조융합본부 - ICT환경연구실
+      - (2)주최기관 – 2023 동계 한국통신학회
+      - (3)논문명 : 연속공정에서의 에너지 수요분석 및 예측모델 (주저자)
+      - (4)연구성과 : 예측정확도 99%의 시계열 모델 개발 및 Shewart 관리도를 적용한 이상탐지 모델 개발
       
   - 역할
       - My Stack
-        - 1) 연구개요 : 공장에너지관리시스템(FEMS : Factory Energy Management System)에서 이상탐지, 운영최적화, 공정모니터링을 수행하기 위하여 에너지 수요분석 및 예측모델 연구를 진행
-        - 2) 연구방법 및 성과 : 공장에너지 분석의 정확도를 높이고 신호처리를 통해 변수간 통계적 추출, 스펙트럼 분석을 통해 시계열 데이터 정상성 주기(stational cycle)를 찾아내고 시계열 교차검증(Time Series Cross Validation)을 주기별로 학습을 수행하고, 잡음 신호처리(Denoising)을 통해 시계열 분석에 적용하여 각 모델마다 성능을 평가. 구현한 모델 중 최적의 전력 예측을 위한 결정트리(Decision Tree)기반의 부스팅(XGBoost) 학습모델을 적용한 적층형 하이브리드(Stacked Hybrid) 모델을 통해 공장에너지 수요예측 및 절감기법을 제안
+        - (1) 연구개요 : 공장에너지관리시스템(FEMS : Factory Energy Management System)에서 이상탐지, 운영최적화, 공정모니터링을 수행하기 위하여 에너지 수요분석 및 예측모델 연구를 진행
+        - (2) 연구방법 및 성과 : 공장에너지 분석의 정확도를 높이고 신호처리를 통해 변수간 통계적 추출, 스펙트럼 분석을 통해 시계열 데이터 정상성 주기(stational cycle)를 찾아내고 시계열 교차검증(Time Series Cross Validation)을 주기별로 학습을 수행하고, 잡음 신호처리(Denoising)을 통해 시계열 분석에 적용하여 각 모델마다 성능을 평가. 구현한 모델 중 최적의 전력 예측을 위한 결정트리(Decision Tree)기반의 부스팅(XGBoost) 학습모델을 적용한 적층형 하이브리드(Stacked Hybrid) 모델을 통해 공장에너지 수요예측 및 절감기법을 제안
       
 논문링크 : [dbpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227187) | [논문열람하기](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/2023w/abs/0728-MYAUT.pdf)
 
