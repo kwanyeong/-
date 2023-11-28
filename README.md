@@ -72,7 +72,7 @@
   
   - 친환경 Eco 다중공정 시스템 개발하여 RFID 칩을 이용한 자동반납 세척 시스템 개발 RFID 센서가 인식되면 ESP32 보드를 통해 데이터베이스로 RFID 센서 고유번호 전송되어 반납확인후 세척후 딥러닝(yolov8)을 이용한 컵의 크랙비율 분석하여 에코포인트 차등지급 웹 서비스를 개발함 
 
-Github link : [kwanyeong](https://github.com/kwanyeong/e-convient-Life-Serive/tree/main)
+Github link : ![링크](https://github.com/kwanyeong/e-convient-Life-Serive/tree/main)
 
 - 실전프로젝트 - 주최 광주 인공지능 사관학교
   
