@@ -11,7 +11,9 @@
 
 ## 🛠 Technical Skills
 
-- Python을 사용한 pandas, tensorflow, ML/DL 모델링에 익숙합니다.
+- 스마트팩토리 머신비전 솔루션(H/W, S/W 개발에 익숙합니다.
+
+- 스마트팩토리 제조데이터 분석 솔루션 개발에 익숙합니다.
 
 - 데이터 통계분석 및 모델링에 익숙합니다.
 
@@ -19,6 +21,14 @@
 
 - Git 사용이 가능하고 이를 통한 협업이 가능합니다
   
+
+| 머신비전    |                                                  |
+| ---------- | ------------------------------------------------ |
+| 사용 언어         | C#, Python        |
+| 사용 카메라       | Sentech, JAI, IMI |
+| 카메라 인터페이스  | GigE Vision, CameraLink, CoaXPress |
+| SDK 개발 응용     | Rule-based learning, Deep learning (Open eVision/Deep Learning Studio) |
+| 사용 기술         | 2D 영상처리 (LineScan Camera / AreaScan Camera), 3D 영상처리 - 광삼각법 |
 
 | Frontend |                  |
 | -------- | ---------------- |
@@ -35,14 +45,6 @@
 | ----- | ------------------------------------------------- |
 | 라이브러리 | tensorflow, keras, pandas, numpy, OpenCV, MediaPipe  |
 | 모델    | LSTM(시계열), ko-transfomer, prophet(시계열), attention |
-
-| 머신비전    |                                                  |
-| ---------- | ------------------------------------------------ |
-| 사용 언어         | C#, Python        |
-| 사용 카메라       | Sentech, JAI, IMI |
-| 카메라 인터페이스  | GigE Vision, CameraLink, CoaXPress |
-| SDK 개발 응용     | Rule-based learning, Deep learning (Open eVision/Deep Learning Studio) |
-| 사용 기술         | 2D 영상처리 (LineScan Camera / AreaScan Camera), 3D 영상처리 - 광삼각법 |
 
 
 | 통계 분석 |                                                  |
