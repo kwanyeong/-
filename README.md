@@ -36,8 +36,8 @@
 | 라이브러리 | tensorflow, keras, pandas, numpy, OpenCV, MediaPipe  |
 | 모델    | LSTM(시계열), ko-transfomer, prophet(시계열), attention |
 
-| **머신비전** |
-| ----------- | ------------------------- |
+| 머신비전    |                                                  |
+| ---------- | ------------------------------------------------ |
 | 사용 언어         | C#, Python        |
 | 사용 카메라       | Sentech, JAI, IMI |
 | 카메라 인터페이스  | GigE Vision, CameraLink, CoaXPress |
