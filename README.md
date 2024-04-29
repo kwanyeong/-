@@ -48,7 +48,7 @@
 | 통계 분석 |                                                  |
 | -------- | ------------------------------------------------- |
 | 분석 기법 | 특성공학, PCA, Clustering, 통계-가설검증, Shewart 관리도, DoE(실험계획법), 공간분석 |
-| Tool     | Python, R, Q-GIS, Minitab                                                       |
+| Tool     | Python, R, Q-GIS, Minitab  |
 
 
 ## 📓Education
