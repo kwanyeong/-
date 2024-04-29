@@ -41,8 +41,8 @@
 | 사용 언어         | C#, Python        |
 | 사용 카메라       | Sentech, JAI, IMI |
 | 카메라 인터페이스  | GigE Vision, CameraLink, CoaXPress |
-| SDK 개발 응용     | Sentech SDK, Euresys SDK ( Open eVision [Rule-based learning] / Deep Learning Studio [Deep-learning]) |
-| 사용 기술         | 2D 영상처리 (LineScan Camera / AreaScan Camera), 3D 영상처리 - 광삼각법을 활용한 3D 이미지 영상 취득      |
+| SDK 개발 응용     | Rule-based learning - Open eVision / Deep learning - Deep Learning Studio |
+| 사용 기술         | 2D 영상처리 (LineScan Camera / AreaScan Camera), 3D 영상처리 - 광삼각법을 활용한 3D 이미지 영상 취득 |
 
 
 | 통계 분석 |                                                  |
