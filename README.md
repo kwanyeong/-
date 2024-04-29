@@ -138,7 +138,7 @@
     - 개발언어 및 환경 : C#(WinForm)
     - 개발목적 : C#(WinForm) 기반 카메라 SDK 개발 및 제조사 툴을 활용한 머신비전 현장 적용
 
-Github link : [핵심프로젝트](https://github.com/kwanyeong/Machine-Vision)
+Github link : [머신비전 프로젝트](https://github.com/kwanyeong/Machine-Vision)
 
 
 
