@@ -27,8 +27,8 @@
 
 | Backend |                         |
 | ------- | ----------------------- |
-| 언어      | Python, Java, C++, C#          |
-| 서버      | Flask, Django, Spring, Node.js |
+| 사용 언어    | Python, Java, C++, C#          |
+| 서버         | Flask, Django, Spring, Node.js |
 | 데이터베이스  | MySQL, Oracle                 |
 
 | ML/DL |                                                   |
@@ -36,8 +36,15 @@
 | 라이브러리 | tensorflow, keras, pandas, numpy, OpenCV, MediaPipe  |
 | 모델    | LSTM(시계열), ko-transfomer, prophet(시계열), attention |
 
-| 머신비전 |
-**adfadf**
+| **머신비전** |
+| ----------- | ------------------------- |
+| 사용 언어         | C#, Python
+| 사용 카메라       | Sentech, JAI, IMI |
+| 카메라 인터페이스  | GigE Vision, CameraLink, CoaXPress |
+| SDK 개발 응용     | Sentech SDK, Euresys SDK ( Open eVision [Rule-based learning] / Deep Learning Studio [Deep-learning]) |
+| 사용 기술         | 2D 영상처리 (LineScan Camera / AreaScan Camera), 3D 영상처리 - 광삼각법을 활용한 3D 이미지 영상 취득
+
+
 | 통계 분석 |                                                  |
 | -------- | ------------------------------------------------- |
 | 분석 기법 | 특성공학, PCA, Clustering, 통계-가설검증, Shewart 관리도, DoE(실험계획법), 공간분석 |
