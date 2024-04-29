@@ -123,13 +123,13 @@
 
 ## 🕔Projects
 
-- 머신비전 프로젝트 - 수행기업 : (주)화인스텍(FainStec)  // 머신비전 솔루션 업계 2위(매출액 기준)
+- 머신비전 프로젝트 - 수행기업 : (주)화인스텍(FainStec) # 수행기간 : 2024. 3.21 ~ 2024. 4.19 // 머신비전 솔루션 업계 2위(매출액 기준)
   - 주제 : 딥러닝 기반 약물 패키징 검사 
 
     - 개발언어 및 환경 : C#(WinForm)
     - 개발목적 : C#(WinForm) 기반 카메라 SDK 개발 및 제조사 툴을 활용한 머신비전 현장 적용
 
-Github link : [핵심프로젝트](https://github.com/kwanyeong/e-convient-Life-Serive/tree/main)  
+Github link : [핵심프로젝트](https://github.com/kwanyeong/Machine-Vision)
 
 
 
