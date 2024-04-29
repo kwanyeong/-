@@ -172,7 +172,7 @@ Github link : [핵심프로젝트](https://github.com/kwanyeong/Machine-Vision)
   
   - 사용기술(Python(yolov8), 웹(HTML, CSS, JS, Ajax), 서버(Flask), 통신(I2C, WIFI))
   
-  - 친환경 Eco 다중공정 시스템 개발하여 RFID 칩을 이용한 자동반납 세척 시스템 개발 RFID 센서가 인식되면 ESP32 보드를 통해 데이터베이스로 RFID 센서 고유번호 전송되어 반납확인후 세척후 딥러닝(yolov8)을 이용한 컵의 크랙비율 분석하여 에코포인트 차등지급 웹 서비스를 개발함
+  - 친환경 Eco 다중공정 시스템 개발하여 RFID 칩을 이용한 자동반납 세척 시스템 개발 RFID 센서가 인식되면 ESP32 보드를 통해 DB로 RFID 센서 고유번호 전송되어 반납확인후 세척후 딥러닝(yolov8)을 이용한 컵의 크랙비율 분석하여 에코포인트 차등지급 웹 서비스를 개발함
  
   - 역할
     - My Stack
