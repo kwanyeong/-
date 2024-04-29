@@ -43,6 +43,14 @@
 
 
 ## 📓Education
+■ 한국머신비전산업협회 / '2023. 12. 29 ~ '2024. 4. 29
+-AI머신비전 융합인재 양성과정 | 
+1) AreaScan GigE 카메라 및 캡쳐보드 구동– H/W 및S/W 구성, AreaScan 카메라 연결 및 동작 구동
+2) LineScan Camera Link, CoaxPress 인터페이스 카메라 구동– LineScan 카메라 연결 및 동작 구동
+3) 2D 영상처리–이진화, 필터링, 모폴로지 등 전처리 알고리즘 수행, Pattern Matching & Measurement 모션 인식, Blob 동작과 이미지 Buffer를 사용한 실시간 영상 스트리밍 등
+4) 3D 광삼각법 활용과 구조광 방식– 레이저 광삼각법을 활용한 3D 이미지 영상 취득 및 검사방법
+5) 딥러닝 모델 개발 및 이미지 생성 (Stable Diffusion, Open CV - yolov8)
+
 ■ 인공지능사관학교 / '2023. 6. 7 ~ '2023. 12. 5
 - AI기반 데이터모델링(사물지능) | AIoT기반 임베디드SW개발(Arduino, RaspberryPi, Jetson), 센서데이터 처리 및 센서통신, ROS기반 자율주행 로봇, Spring Web 개발, OpenCV 이미지 딥러닝 모델 개발
 
@@ -56,6 +64,10 @@
 
 
 ## 🥇Awards
+■ AI융합콘텐츠 아이디어 공모전 (장려상)
+- 상훈명 : 광주정보문화산업진흥원장상 ('23. 12. 6.)
+- 주최 : 과학기술정보통신부 | 주관 : 광주정보문화산업진흥원 
+
 ■ 유통데이터 활용 경진대회 (우수상)
 - 상훈명 : 한국전자정보산업진흥회장상 ('23. 9. 26.)
 - 주최 : 산업통상자원부 | 주관 : 한국전자정보통신산업진흥회 
@@ -110,6 +122,16 @@
 논문링크 : [dbpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227187) | [논문열람하기](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/2023w/abs/0728-MYAUT.pdf)
 
 ## 🕔Projects
+
+- 머신비전 프로젝트 - 수행기업 : (주)화인스텍(FainStec)  // 머신비전 솔루션 업계 2위(매출액 기준)
+  - 주제 : 딥러닝 기반 약물 패키징 검사 
+
+    - 개발언어 및 환경 : C#(WinForm)
+    - 개발목적 : C#(WinForm) 기반 카메라 SDK 개발 및 제조사 툴을 활용한 머신비전 현장 적용
+
+Github link : [핵심프로젝트](https://github.com/kwanyeong/e-convient-Life-Serive/tree/main)  
+
+
 
 - 유통데이터 활용 경진대회 우수상(한국전자정보통신산업진흥회장 2023. 9) - 주최 : 산업통상자원부 주관 : 한국전자정보통신산업진흥회 
   
