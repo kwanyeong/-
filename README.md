@@ -27,15 +27,17 @@
 
 | Backend |                         |
 | ------- | ----------------------- |
-| 언어      | Python, Java, C++              |
+| 언어      | Python, Java, C++, C#          |
 | 서버      | Flask, Django, Spring, Node.js |
-| 데이터베이스  | MySQL, Oracle        |
+| 데이터베이스  | MySQL, Oracle                 |
 
 | ML/DL |                                                   |
 | ----- | ------------------------------------------------- |
 | 라이브러리 | tensorflow, keras, pandas, numpy, OpenCV, MediaPipe  |
 | 모델    | LSTM(시계열), ko-transfomer, prophet(시계열), attention |
 
+| 머신비전 |
+**adfadf**
 | 통계 분석 |                                                  |
 | -------- | ------------------------------------------------- |
 | 분석 기법 | 특성공학, PCA, Clustering, 통계-가설검증, Shewart 관리도, DoE(실험계획법), 공간분석 |
