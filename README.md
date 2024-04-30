@@ -30,7 +30,7 @@
 
 | Frontend |                  |
 | -------- | ---------------- |
-| 웹        | HTML/CSS, JavaScript |
+| 웹        | HTML/CSS, JavaScript, jQurey, Ajax |
 | 웹 호스팅    | github pages       |
 
 | Backend |                         |
