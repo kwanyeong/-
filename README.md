@@ -1,4 +1,4 @@
-## 스마트팩토리 솔루션 개발에 특화된 개발자 이관영입니다.
+## 스마트팩토리 솔루션에 특화된 개발자 이관영입니다.
 
 ● 새로운 기술 스택에 관심이 많고 배우는걸 좋아합니다.
 
@@ -232,3 +232,7 @@ Github link : **[핵심프로젝트](https://github.com/kwanyeong/e-convient-Lif
   - 구음장애 환자의 특징 추출하여 STT 모델 생성하여 음성 정상 텍스트변환, 변환된 텍스트를 다시 음성으로 변환해주는(Real-Time) 서비스 개발, 웹은 반응형 웹으로 IoT 장비에도 구동되게 제작  
 
 Github link : **[실전프로젝트](https://github.com/orgs/Technician-for-AI-Speech-Service/repositories)**
+
+
+##### **[증빙서류](https://github.com/kwanyeong/-/files/15159784/_.pdf)**
+
