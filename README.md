@@ -9,9 +9,9 @@
 
 ## 🛠 Technical Skills
 
-- 스마트팩토리 머신비전 솔루션(H/W, S/W - 2D/3D 영상처리 부문) 개발에 익숙합니다.
+- **스마트팩토리 머신비전 솔루션(H/W, S/W - 2D/3D 영상처리 부문) 개발에 익숙합니다.**
 
-- 스마트팩토리 제조데이터 분석(품질분석, 시계열분석, 공정최적화, 예지보전) 솔루션 개발에 익숙합니다.
+- **스마트팩토리 제조데이터 분석(품질분석, 시계열분석, 공정최적화, 예지보전) 솔루션 개발에 익숙합니다.**
 
 - 데이터 통계분석 및 AI(ML/DL) 모델링에 익숙합니다.
 
@@ -54,11 +54,11 @@
 ## 📓Education
 ■ 한국머신비전산업협회 / '2023. 12. 29 ~ '2024. 4. 29
 -AI머신비전 융합인재 양성과정 | 
-1) AreaScan GigE 카메라 및 캡쳐보드 구동– H/W 및S/W 구성, AreaScan 카메라 연결 및 동작 구동
+**1) AreaScan GigE 카메라 및 캡쳐보드 구동– H/W 및S/W 구성, AreaScan 카메라 연결 및 동작 구동
 2) LineScan Camera Link, CoaxPress 인터페이스 카메라 구동– LineScan 카메라 연결 및 동작 구동
 3) 2D 영상처리–이진화, 필터링, 모폴로지 등 전처리 알고리즘 수행, Pattern Matching & Measurement 모션 인식, Blob 동작과 이미지 Buffer를 사용한 실시간 영상 스트리밍 등
 4) 3D 광삼각법 활용과 구조광 방식– 레이저 광삼각법을 활용한 3D 이미지 영상 취득 및 검사방법
-5) 딥러닝 모델 개발 및 이미지 생성 (Stable Diffusion, Open CV - yolov8)
+5) 딥러닝 모델 개발 및 이미지 생성 (Stable Diffusion, Open CV - yolov8)**
 
 ■ 인공지능사관학교 / '2023. 6. 7 ~ '2023. 12. 5
 - AI기반 데이터모델링(사물지능) | AIoT기반 임베디드SW개발(Arduino, RaspberryPi, Jetson), 센서데이터 처리 및 센서통신, ROS기반 자율주행 로봇, Spring Web 개발, OpenCV 이미지 딥러닝 모델 개발
@@ -107,7 +107,7 @@
       - 공정시스템 에너지 절감을 위한 SVM과 t-SNE를 이용한 제지업종 데이터 분류 및 품질원인 규명 
       - OneClassSVM 및 Shewart 관리도를 적용한 MES 제조데이터 상 전기설비 이상탐지 예측분석(시계열 분석, 예지보전, 공정최적화)
 
-**성과물** : **[제지공정_제조데이터분석](https://github.com/kwanyeong/-/files/15157341/SVM.t-SNE.pdf)** | **[FEMS_공장에너지수요예측](https://github.com/kwanyeong/-/files/15157399/default.pdf)**
+**성과물** : **[제지공정 제조데이터분석](https://github.com/kwanyeong/-/files/15157341/SVM.t-SNE.pdf)** | **[FEMS 공장에너지 수요예측](https://github.com/kwanyeong/-/files/15157399/default.pdf)**
 
  
 ■ 국방기술품질원[DTaQ]
@@ -131,7 +131,7 @@
   4) 소속기관 : 한국전자통신연구원[ETRI]
   5) 주최기관 : 한국통신학회 
 
-논문링크 : [dbpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227187) | [논문열람하기](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/2023w/abs/0728-MYAUT.pdf)
+논문링크 : **[dbpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227187)** | **[논문열람하기](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/2023w/abs/0728-MYAUT.pdf)**
 
 
 
@@ -144,7 +144,7 @@
     - 개발언어 및 환경 : C#(WinForm)
     - 개발목적 : C#(WinForm) 기반 카메라 SDK 개발 및 제조사 툴을 활용한 머신비전 현장 적용
 
-Github link : [머신비전 프로젝트](https://github.com/kwanyeong/Machine-Vision)
+Github link : **[머신비전 프로젝트](https://github.com/kwanyeong/Machine-Vision)**
 
 
 
@@ -155,7 +155,7 @@ Github link : [머신비전 프로젝트](https://github.com/kwanyeong/Machine-V
   - 물류창고 최적임대 솔루션 & 소상공인 CPG(생활용품) 마케팅 솔루션 기획하였습니다. 물류창고 최적임대 솔루션의 경우, 데이터 분석을 기반으로 한 수요 예측을 통해 창고의 물품들을 기간별 시즌성 품목과 비시즌성 품목으로 분류하여 최적의 발주 기간과 수량을 도출해 주는 솔루션을 만들었습니다
 
 
-**성과물** : **[유통데이터분석_수요예측_프로젝트](https://github.com/kwanyeong/-/files/15157422/default.pdf)**
+**성과물** : **[유통데이터분석 수요예측 프로젝트](https://github.com/kwanyeong/-/files/15157422/default.pdf)**
 
 - 에너지 다소비 업종 FEMS(공장에너지관리시스템) 플랫폼 개발 ('2022. 9. 5 ~ '2023. 2. 28) - 근무처 : 한국전자통신연구원[ETRI] 지능화제조융합본부
   - 개요 : 에너지 다소비 업종(제지/용해(철강) 등)의 제조공정/품질 데이터 분석 및 전기설비 이상탐지 예측 분석 연구
