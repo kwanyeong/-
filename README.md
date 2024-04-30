@@ -233,6 +233,6 @@ Github link : **[핵심프로젝트](https://github.com/kwanyeong/e-convient-Lif
 
 Github link : **[실전프로젝트](https://github.com/orgs/Technician-for-AI-Speech-Service/repositories)**
 
-
-## **[증빙서류](https://github.com/kwanyeong/-/files/15159784/_.pdf)**
+---
+# **[증빙서류](https://github.com/kwanyeong/-/files/15159784/_.pdf)**
 
