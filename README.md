@@ -107,7 +107,7 @@
       - 공정시스템 에너지 절감을 위한 SVM과 t-SNE를 이용한 제지업종 데이터 분류 및 품질원인 규명 
       - OneClassSVM 및 Shewart 관리도를 적용한 MES 제조데이터 상 전기설비 이상탐지 예측분석(시계열 분석, 예지보전, 공정최적화)
 
-[제지공정_제조데이터분석](https://github.com/kwanyeong/-/files/15157341/SVM.t-SNE.pdf) | [FEMS_공장에너지수요예측](https://github.com/kwanyeong/-/files/15157399/default.pdf)
+성과결과물 : [제지공정_제조데이터분석](https://github.com/kwanyeong/-/files/15157341/SVM.t-SNE.pdf) | [FEMS_공장에너지수요예측](https://github.com/kwanyeong/-/files/15157399/default.pdf)
 
  
 ■ 국방기술품질원[DTaQ]
@@ -155,7 +155,7 @@ Github link : [머신비전 프로젝트](https://github.com/kwanyeong/Machine-V
   - 물류창고 최적임대 솔루션 & 소상공인 CPG(생활용품) 마케팅 솔루션 기획하였습니다. 물류창고 최적임대 솔루션의 경우, 데이터 분석을 기반으로 한 수요 예측을 통해 창고의 물품들을 기간별 시즌성 품목과 비시즌성 품목으로 분류하여 최적의 발주 기간과 수량을 도출해 주는 솔루션을 만들었습니다
 
 
-[유통데이터분석_수요예측_프로젝트](https://github.com/kwanyeong/-/files/15157422/default.pdf)
+성과결과물 : [유통데이터분석_수요예측_프로젝트](https://github.com/kwanyeong/-/files/15157422/default.pdf)
 
 - 에너지 다소비 업종 FEMS(공장에너지관리시스템) 플랫폼 개발 ('2022. 9. 5 ~ '2023. 2. 28) - 근무처 : 한국전자통신연구원[ETRI] 지능화제조융합본부
   - 개요 : 에너지 다소비 업종(제지/용해(철강) 등)의 제조공정/품질 데이터 분석 및 전기설비 이상탐지 예측 분석 연구
