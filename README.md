@@ -104,8 +104,11 @@
      
   2. 주요성과
       - 연속공정 상태에서의 FEMS(공장에너지관리시스템) 전력량 에너지 수요분석 및 예측모델 개발
-      - 공정시스템 에너지 절감을 위한 SVM과 t-SNE를 이용한 제지업종 데이터 분류 및 품질원인 규명
+      - 공정시스템 에너지 절감을 위한 SVM과 t-SNE를 이용한 제지업종 데이터 분류 및 품질원인 규명 
       - OneClassSVM 및 Shewart 관리도를 적용한 MES 제조데이터 상 전기설비 이상탐지 예측분석(시계열 분석, 예지보전, 공정최적화)
+
+[제지공정 제조데이터 분석](https://github.com/kwanyeong/-/files/15157341/SVM.t-SNE.pdf)
+
  
 ■ 국방기술품질원[DTaQ]
 1. 담당직무
@@ -129,6 +132,9 @@
   5) 주최기관 : 한국통신학회 
 
 논문링크 : [dbpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227187) | [논문열람하기](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/2023w/abs/0728-MYAUT.pdf)
+
+
+
 
 ## 🕔Projects
 
