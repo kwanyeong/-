@@ -107,7 +107,7 @@
       - 공정시스템 에너지 절감을 위한 SVM과 t-SNE를 이용한 제지업종 데이터 분류 및 품질원인 규명 
       - OneClassSVM 및 Shewart 관리도를 적용한 MES 제조데이터 상 전기설비 이상탐지 예측분석(시계열 분석, 예지보전, 공정최적화)
 
-[제지공정_제조데이터분석](https://github.com/kwanyeong/-/files/15157341/SVM.t-SNE.pdf) | 
+[제지공정_제조데이터분석](https://github.com/kwanyeong/-/files/15157341/SVM.t-SNE.pdf) | [FEMS 에너지 수요분석 및 예측](https://github.com/kwanyeong/-/files/15157399/default.pdf) | 
 
  
 ■ 국방기술품질원[DTaQ]
