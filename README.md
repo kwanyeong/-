@@ -196,7 +196,7 @@
   
   - 구음장애 환자의 특징 추출하여 STT 모델 생성하여 음성 정상 텍스트변환, 변환된 텍스트를 다시 음성으로 변환해주는(Real-Time) 서비스 개발, 웹은 반응형 웹으로 IoT 장비에도 구동되게 제작  
 
-***Github link** : **[실전프로젝트](https://github.com/orgs/Technician-for-AI-Speech-Service/repositories)**
+***Github link** : **[실전프로젝트](https://github.com/Technician-for-AI-Speech-Service/technician)**
 
 
 
