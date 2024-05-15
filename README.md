@@ -141,7 +141,7 @@
 
 ■ **유통데이터 활용 경진대회** 우수상(한국전자정보통신산업진흥회장 2023. 9) - 주최 : 산업통상자원부 주관 : 한국전자정보통신산업진흥회 
   
-  - 사용기술: (Python(pandas, ML(prophet), DL(LSTM) , Figma(프로토타입))
+  - 사용기술: Python(PCA, Clustering, ML(prophet), DL(LSTM) , Figma(프로토타입)
   
   - 물류창고 최적임대 솔루션 & 소상공인 CPG(생활용품) 마케팅 솔루션 기획하였습니다. 물류창고 최적임대 솔루션의 경우, 데이터 분석을 기반으로 한 수요 예측을 통해 창고의 물품들을 기간별 시즌성 품목과 비시즌성 품목으로 분류하여 최적의 발주 기간과 수량을 도출해 주는 솔루션을 만들었습니다
 
@@ -153,7 +153,7 @@
   
   - 주제 : 친환경 Eco 다회용컵 공정 시스템
   
-  - 사용기술(Python(yolov8), 웹(HTML, CSS, JS, Ajax), 서버(Flask), 통신(I2C, WIFI, Websocket))
+  - 사용기술: Python(yolov8) 웹(HTML, CSS, JS, Ajax), 서버(Flask), 통신(I2C, WIFI, Websocket)
 
   - 텀블러의 RFID 센서가 인식으로 Conveyor 공정 가동되고 이미지 딥러닝(yolov8)으로 학습된 카메라 센서를 통해 표면의 Crack을 객체탐지하여 ECO포인트 차등지급하는 웹-IoT 서비스
 
