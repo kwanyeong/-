@@ -109,7 +109,7 @@
       - 공정시스템 에너지 절감을 위한 SVM과 t-SNE를 이용한 제지업종 데이터 분류 및 품질원인 규명 
       - OneClassSVM 및 Shewart 관리도를 적용한 MES 제조데이터 상 전기설비 이상탐지 예측분석(시계열 분석, 예지보전, 공정최적화)
 
-**성과물** : **[제지공정 제조데이터분석](https://github.com/kwanyeong/-/files/15157341/SVM.t-SNE.pdf)** | **[FEMS 공장에너지 수요예측](https://github.com/kwanyeong/-/files/15157399/default.pdf)**
+**성과물** : **[제지공정 제조데이터분석](https://github.com/kwanyeong/-/files/15157341/SVM.t-SNE.pdf)** | **[FEMS 공장에너지 수요예측](https://github.com/kwanyeong/-/files/15316267/PPT.pdf)**
 
  
 ■ 국방기술품질원[DTaQ]
@@ -135,7 +135,7 @@
   4) 소속기관 : 한국전자통신연구원[ETRI]
   5) 주최기관 : 한국통신학회 
 
-논문링크 : **[dbpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227187)** | **[논문열람하기](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/2023w/abs/0728-MYAUT.pdf)**
+논문링크 : **[dbpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227187)** | **[논문열람하기](https://github.com/kwanyeong/-/files/15157399/default.pdf)**
 
 
 
