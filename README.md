@@ -51,25 +51,37 @@
 
 ---
 ## 📓Education
+  	● 교육내역
+      ■ 한국머신비전산업협회 / '2023. 12. 29 ~ '2024. 4. 29
+	- AI머신비전 융합인재 양성과정
+	1) AreaScan GigE 카메라 및 캡쳐보드 구동– H/W 및S/W 구성, AreaScan 카메라 연결 및 동작 구동
+	2) LineScan Camera Link, CoaxPress 인터페이스 카메라 구동– LineScan 카메라 연결 및 동작 구동
+	3) 2D 영상처리–이진화, 필터링, 모폴로지 등 전처리 알고리즘 수행, Pattern Matching & Measurement 모션 인식, Blob 동작과 이미지 Buffer를 사용한 실시간 영상 스트리밍 등
+	4) 3D 광삼각법 활용과 구조광 방식– 레이저 광삼각법을 활용한 3D 이미지 영상 취득 및 검사방법
+	5) 딥러닝 모델 개발 및 이미지 생성 (Stable Diffusion, Open CV - yolov8)
 
-■ 한국머신비전산업협회 / '2023. 12. 29 ~ '2024. 4. 29
+      ■ 인공지능사관학교 / '2023. 6. 7 ~ '2023. 12. 5
+	- AI기반 데이터모델링(사물지능)
+	1) AIoT 기반임베디드 시스템 SW개발(C++, Python) / Arduino, Raspberry Pi
+	2) 자율주행 로봇 SW개발 (Python) / Jetson Nano
+	3) 센서데이터 수집 및 데이터 처리 (적외선 센서, RFID 센서, 카메라센서, Wifi 통신, 블루투스 통신, MQTT socket 통신기술 등)
+	4) ML/DL 기반 AI 모델링 (자연어 처리, 감성분석, 이미지 딥러닝(OpenCV, Stable Diffiusion), 시계열 분석 등)
+	5) Web 개발 (HTML/CSS, JS, Ajax, jQuery)
+	6) 전자정부프레임워크(Spring Framework) 및 Spring boot 기반 웹개발 (Java)
+	7) SQL 개발 (MySQL, Oracle)
+	8) 핵심역량 프로젝트 및 실전역량 프로젝트 수행
 
-- AI머신비전 융합인재 양성과정
+      ■ 한국지능정보사회진흥원[NIA] / '2022. 6. 17 ~ '2022. 8. 31
+	- 데이터분석 청년인재 양성사업
+	1) 통계분석 및 통계적 가설검증
+	2)  ML/DL 기반 빅데이터 분석(PCA, Clustering, 네트워크 분석 등)
+	3) 데이터 수집 및 전처리(웹크롤링. 텍스트마이닝)
+	4) 공간분석 (Q-GIS)
 
-1) AreaScan GigE 카메라 및 캡쳐보드 구동– H/W 및S/W 구성, AreaScan 카메라 연결 및 동작 구동
-2) LineScan Camera Link, CoaxPress 인터페이스 카메라 구동– LineScan 카메라 연결 및 동작 구동
-3) 2D 영상처리–이진화, 필터링, 모폴로지 등 전처리 알고리즘 수행, Pattern Matching & Measurement 모션 인식, Blob 동작과 이미지 Buffer를 사용한 실시간 영상 스트리밍 등
-4) 3D 광삼각법 활용과 구조광 방식– 레이저 광삼각법을 활용한 3D 이미지 영상 취득 및 검사방법
-5) 딥러닝 모델 개발 및 이미지 생성 (Stable Diffusion, Open CV - yolov8)
 
-■ 인공지능사관학교 / '2023. 6. 7 ~ '2023. 12. 5
-- AI기반 데이터모델링(사물지능) | AIoT기반 임베디드SW개발(Arduino, RaspberryPi, Jetson), 센서데이터 처리 및 센서통신, ROS기반 자율주행 로봇, Spring Web 개발, OpenCV 이미지 딥러닝 모델 개발
-
-■ 한국지능정보사회진흥원[NIA] / '2022. 6. 17 ~ '2022. 8. 31
-- 데이터분석 청년인재 양성사업 | 데이터 통계분석 및 ML/DL 기반 빅데이터분석, Q-GIS 공간분석
-
-■ 한국산업기술시험원[KTL] / '2018. 8. 28 ~ 2018. 12. 11
-- 품질관리 전문인력 양성교육 | 공업통계, 공정 관리도, 샘플링검사, 실험계획법, 신뢰성공학, 품질경영, 생산관리, Minitab 실무
+      ■ 한국산업기술시험원[KTL] / '2018. 8. 28 ~ 2018. 12. 11
+	- 품질관리 전문인력 양성교육
+ 	품질관리 이론 및 실무(공업통계, 공정 관리도, 샘플링검사, 실험계획법, 신뢰성공학, 품질경영, 생산관리, Minitab 실무)
 
 
 
