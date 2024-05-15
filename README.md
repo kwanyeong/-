@@ -55,11 +55,11 @@
 
 ● AI머신비전 융합인재 양성과정
 	
- 	1. AreaScan GigE 카메라 및 캡쳐보드 구동– H/W 및S/W 구성, AreaScan 카메라 연결 및 동작 구동
-	2. LineScan Camera Link, CoaxPress 인터페이스 카메라 구동– LineScan 카메라 연결 및 동작 구동
-	3. 2D 영상처리–이진화, 필터링, 모폴로지 등 전처리 알고리즘 수행, Pattern Matching & Measurement 모션 인식, Blob 동작과 이미지 Buffer를 사용한 실시간 영상 스트리밍 등
-	4. 3D 광삼각법 활용과 구조광 방식– 레이저 광삼각법을 활용한 3D 이미지 영상 취득 및 검사방법
-	5. 딥러닝 모델 개발 및 이미지 생성 (Stable Diffusion, Open CV - yolov8)
+1. AreaScan GigE 카메라 및 캡쳐보드 구동– H/W 및S/W 구성, AreaScan 카메라 연결 및 동작 구동
+2. LineScan Camera Link, CoaxPress 인터페이스 카메라 구동– LineScan 카메라 연결 및 동작 구동
+3. 2D 영상처리–이진화, 필터링, 모폴로지 등 전처리 알고리즘 수행, Pattern Matching & Measurement 모션 인식, Blob 동작과 이미지 Buffer를 사용한 실시간 영상 스트리밍 등
+4. 3D 광삼각법 활용과 구조광 방식– 레이저 광삼각법을 활용한 3D 이미지 영상 취득 및 검사방법
+5. 딥러닝 모델 개발 및 이미지 생성 (Stable Diffusion, Open CV - yolov8)
 
 ■ 인공지능사관학교 / '2023. 6. 7 ~ '2023. 12. 5
 
