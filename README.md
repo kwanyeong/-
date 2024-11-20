@@ -130,10 +130,9 @@
 
     - 개발언어 및 환경 : Python
     - 개발 목적
-    
-    (1) 제조공정상 전/후공정 간의 시간차(Time Shift)로 인한 품질예측 오류 해결
-    (2) 제조품 품질 부적합 원인규명
-    (3) 시계열 예측분석을 통한 이상탐지(Anomaly Detection) 모델 개발
+      	1. 제조공정상 전/후공정 간의 시간차(Time Shift)로 인한 품질예측 오류 해결
+    	2. 제조품 품질 부적합 원인규명
+    	3. 시계열 예측분석을 통한 이상탐지(Anomaly Detection) 모델 개발
 
 ***Github link** : **[제조데이터분석 프로젝트](https://github.com/kwanyeong/4th-KAMP-Competition)**
 
