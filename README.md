@@ -185,7 +185,7 @@
   
   - 주제 : 구음장애 환자를 위한 AI 음성변환 서비스
   
-  - 사용기술: Python(CiLSTM), 웹(HTML, CSS, JS, Ajax), 서버(Flask, Django), 클라우드(EC2클라우드(ubuntu), Docker), DB(MySQL, Amazon S3) AIoT(Jetson Nano, Linux)
+  - 사용기술: Python(LSTM), 웹(HTML, CSS, JS, Ajax), 서버(Flask, Django), 클라우드(EC2클라우드(ubuntu), Docker), DB(MySQL, Amazon S3) AIoT(Jetson Nano, Linux)
   
   - 구음장애 환자의 특징 추출하여 STT 모델 생성하여 음성 정상 텍스트변환, 변환된 텍스트를 다시 음성으로 변환해주는(Real-Time) 서비스 개발, 웹은 반응형 웹으로 IoT 장비에도 구동되게 제작  
 
