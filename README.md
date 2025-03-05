@@ -194,8 +194,10 @@
 
 
 ---
-# 증빙서류
+### **[증빙내역.pdf](https://github.com/user-attachments/files/19085374/default.pdf)**
+
 
 ### **[증빙내역](https://github.com/kwanyeong/-/files/15159784/_.pdf)**
+
 ### **[대학교_졸업증명서](https://github.com/kwanyeong/-/files/15159815/_.pdf)**
 ### **[대학교_성적증명서](https://github.com/kwanyeong/-/files/15159816/_.pdf)**
