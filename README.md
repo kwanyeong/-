@@ -86,7 +86,9 @@
 ## 🧑‍🏭Carrer
 ■ 한국생산기술연구원
 
-	1. 담당직무 : AI 솔루션 개발 - 공정/품짋분석 AI진단 및 예측모델 개발 (시계열 분석 ( Time Series Classifcation / Forecasting / Anomaly Detection ))
+	1. 담당직무
+		1) AI 솔루션 개발 - 공정/품짋분석 AI진단 및 예측모델 개발 ( 시계열 분석 Time Series Classifcation / Forecasting / Anomaly Detection )
+  		2) 주조공정 AI 진단 - 시계열 분석 
  
  
 ■ 티와이엠(TYM)
