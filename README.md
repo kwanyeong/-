@@ -86,16 +86,36 @@
 ## 🧑‍🏭Carrer
 ■ 한국생산기술연구원
 
-	1. 담당직무
-		1) AI 솔루션 개발 - 공정/품짋분석 AI진단 및 예측모델 개발 ( 시계열 분석 Time Series Classifcation / Forecasting / Anomaly Detection )
-  		2) 주조공정 AI 진단 - 시계열 분석 
+	1. AI 시스템 SW개발 – 시계열 분석 (Time Series Classifcation / Forecasting / Anomaly Detection )
+	1) 단속공정(Batch Process)에서의 공정상태 진단 및 공정효율화 개선연구(ShapeNet 딥러닝 모델 기반 공정분석 / Classification)
+	2) 공정관리 및 상태예측 AI연구 (1D-CNN – BiLSTM / Transformer Hybrid 딥러닝 모델 기반 Forecasting, Classificiation)
+		
+ 	2. AI 시스템 SW개발 – 머신비전
+	1) 반도체 CMP 연구과제 – Pad/Powder 결함 탐지 알고리즘 SW 개발
+	2) Auto-Labeling SW 개발 ( Normal / Abnormal 클래스 자동분류 탐지 Object Detection)
+	3) Stable Diffusion 기반 비정상 이미지 데이터셋 결함(Defect) 생성 (학습용 데이터셋 구축)
+	
+ 	3. 공정/품질 분석 - AI진단 SW 개발 / 제조 데이터분석
+	1) 주조공정 공정품질 상태 진단 및 품질예측 AI연구 
+
  
  
 ■ 티와이엠(TYM)
 
-	1. 담당직무
- 	1) 원부자재 및 완제품 공정/품질검사
-	2) 완제품 품질보증및 품질경영시스템 인증심사 
+	1. 담당직무 : 품질관리 및 품질보증
+	1) 원부자재 수입검사 / 완성품 품질관리
+	2) 품질경영시스템 내부 인증심사
+	3) 고객사 시험성적서(CoA) 발급 및 품질문서 발행
+
+  	2. 주요성과
+	1) 공정/품질 이상원인 진단 및 규명
+	 - 공정능력분석(Cp, Cpk) 기반 품질 불량률 추정 및 공정개선
+	 - 제조현장 데이터분석 기반 품질이상 규명 – 계절별 온습도 관리에 따른 품질상태 추세 파악
+	2) 사무업무 자동화 (RPA 도입) : 품질관리업무시스템 체계 사무업무 자동화(RPA) 도입 추진
+	- 공정간 생성된 규격측정데이터로 시험성적서(CoA) 자동 발급 RPA 도입 추진
+	- 샘플링검사 규격(ISO2859-1) 알고리즘 설계를 통한 품질문서 업무자동화 달성
+
+
 
 ■ 한국전자통신연구원[ETRI]
 
