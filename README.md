@@ -239,7 +239,7 @@
 
 
 ---
-### **[증빙내역1](https://github.com/user-attachments/files/19085374/default.pdf)**
-### **[증빙내역2_수상경력](https://github.com/user-attachments/files/22873221/_.pdf)**
-### **[대학교_졸업증명서](https://github.com/kwanyeong/-/files/15159815/_.pdf)**
-### **[대학교_성적증명서](https://github.com/kwanyeong/-/files/15159816/_.pdf)**
+### **[증빙내역1](https://github.com/user-attachments/files/19085374/증빙내역.pdf)**
+### **[증빙내역2_수상경력](https://github.com/user-attachments/files/22873221/수상경력.pdf)**
+### **[대학교_졸업증명서](https://github.com/kwanyeong/-/files/15159815/졸업증명서.pdf)**
+### **[대학교_성적증명서](https://github.com/kwanyeong/-/files/15159816/성적증명서.pdf)**
