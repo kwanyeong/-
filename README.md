@@ -196,7 +196,7 @@
       
       ▶ 한국등재학술지 학회논문 게재
       
-        (1)기관명 : 한국전자통신연구원[ETRI] / 지도교수 : 김선혁 박사 / LAB 명칭 : 지능화제조융합본부 - ICT환경연구실
+        (1)기관명 : 한국전자통신연구원[ETRI] / 지도교수 : 김선혁 박사 / LAB 명칭 : 지능화제조융합본부 - ICT연구실
       
         (2)주최기관 – 2023 동계 한국통신학회
       
@@ -226,7 +226,7 @@
 
 
 
-■  **실전프로젝트** - 주최 : 인공지능 사관학교
+■  **실전프로젝트** - 주최 : 인공지능사관학교
   
   - 주제 : 구음장애 환자를 위한 AI 음성변환 서비스
   
@@ -239,6 +239,7 @@
 
 
 ---
-### **[증빙내역](https://github.com/user-attachments/files/19085374/default.pdf)**
+### **[증빙내역1](https://github.com/user-attachments/files/19085374/default.pdf)**
+### **[증빙내역2_수상경력](https://github.com/user-attachments/files/22873217/_.pdf)
 ### **[대학교_졸업증명서](https://github.com/kwanyeong/-/files/15159815/_.pdf)**
 ### **[대학교_성적증명서](https://github.com/kwanyeong/-/files/15159816/_.pdf)**
